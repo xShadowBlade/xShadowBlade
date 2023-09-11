@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am a developer that specializes in JavaScript, specifically vanilla web development and Node.js.
+- 🔭 I’m currently working on my game [Stellar Odyssey](https://github.com/xShadowBlade/Stellar-Odyssey)
+- 🌱 I’m currently learning JavaScript, C++, and Python
+- 📫 How to reach me: Discord: ``.xshadowblade`` or ``xShadowBlade#2720``
 <!--
 **xShadowBlade/xShadowBlade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
