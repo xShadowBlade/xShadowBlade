@@ -2,7 +2,7 @@
 I am a developer who specializes in JavaScript.
 - 🔭 I’m currently working on my game [Stellar Odyssey](https://github.com/xShadowBlade/Stellar-Odyssey)
 - 🌱 I’m currently learning JavaScript, C++, and Python
-- ##### 📫 How to reach me:
+- 📫 How to reach me:
   - ![](https://img.shields.io/badge/Discord%3A-.xshadowblade-blue?style=social&logo=discord) 
   - [![](https://img.shields.io/badge/Business%20Email%3A-xshadowblade618%40gmail.com-blue?style=social&logo=gmail)](https://mail.google.com/mail/u/0/?to=xshadowblade618@gmail.com&su&body&bcc&fs=1&tf=cm)
 
