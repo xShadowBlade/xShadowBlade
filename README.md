@@ -1,19 +1,33 @@
 ### Hi there 👋
-I am a developer that specializes in JavaScript, specifically vanilla web development and Node.js.
+I am a developer who specializes in JavaScript.
 - 🔭 I’m currently working on my game [Stellar Odyssey](https://github.com/xShadowBlade/Stellar-Odyssey)
 - 🌱 I’m currently learning JavaScript, C++, and Python
-- 📫 How to reach me: Discord: ``.xshadowblade`` or ``xShadowBlade#2720``
-<!--
-**xShadowBlade/xShadowBlade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: Discord: ``.xshadowblade``
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=xShadowBlade&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=xShadowBlade&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xShadowBlade&show_icons=true" />
+</picture>
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xShadowBlade&layout=donut&hide=mdx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xShadowBlade&layout=donut&hide=mdx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xShadowBlade&layout=donut&hide=mdx&show_icons=true" />
+</picture>
+</div>
