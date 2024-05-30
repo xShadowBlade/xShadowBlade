@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a developer who specializes in mainly TypeScript and also JavaScript.
+I am a developer who specializes in the JavaScript ecosystem.
 - 🔭 I’m currently working on my game [Stellar Odyssey](https://github.com/xShadowBlade/Stellar-Odyssey)
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/-React.js-grey?style=plastic&logo=React) and ![](https://img.shields.io/badge/-C%2B%2B-grey?style=plastic&logo=C%2B%2B)
 - 📫 How to reach me:
