@@ -46,8 +46,10 @@
     "webpack-dev-server": "^5.1.0"
   },
   "dependencies": {
+    "emath.js": "file:../../projects/emath.js",
+    "pixi-viewport": "^5.0.3",
+    "pixi.js": "^7.4.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "emath.js": "file:../../projects/emath.js"
+    "react-dom": "^18.2.0"
   }
 }

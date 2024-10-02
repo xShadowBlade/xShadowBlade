@@ -1,10 +1,10 @@
-interface gameData {
+interface GameData {
     title: string;
     id: string;
     save: string | null;
 }
 
-const data: gameData[] = [
+const data: GameData[] = [
     {
         title: "Stellar Odyssey",
         id: "stellar-odyssey",
