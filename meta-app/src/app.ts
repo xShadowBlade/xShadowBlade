@@ -1,7 +1,7 @@
 /**
  * @file Initialize the PixiJS application and the viewport.
  */
-import { Application, Sprite, Texture } from "pixi.js";
+import { Application, Graphics, Sprite, Texture } from "pixi.js";
 // @ts-expect-error - pixi-viewport is commonjs
 import { Viewport } from "pixi-viewport";
 
@@ -38,5 +38,7 @@ viewport.drag().pinch().wheel().decelerate();
 // sprite.position.set(100, 100);
 
 // add a white circle
-const circle = viewport.addChild(new Sprite(Texture.WHITE));
+// const circle = viewport.addChild(new Sprite(Texture.WHITE));
+const circle = viewport.addChild(new Graphics().beginFill(0xffffff).drawCircle(0, 0, 50));
 circle.tint = 0xffffff;
+circle.position.set(100, 100);
