@@ -4,13 +4,16 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 
+import { Terminal } from "./terminal/terminal";
+
 /**
  * @returns The root component of the application.
  */
 const App: React.FC = () => {
     return (
         <>
-            <p>Hello World!</p>
+            {/* <p>Hello World!</p> */}
+            <Terminal />
         </>
     );
 };

@@ -20,7 +20,7 @@ export default defineConfig({
         outDir: "../dist",
     },
     // Github Pages
-    base: "/game-accessibility/",
+    base: "/",
     plugins: [
         react(),
         // tailwindcss(),
