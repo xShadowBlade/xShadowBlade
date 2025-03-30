@@ -11,12 +11,11 @@ import { Terminal } from "./terminal/terminal";
  */
 const App: React.FC = () => {
     return (
-        <>
-            {/* <p>Hello World!</p> */}
+        <div className="flex flex-col items-center justify-center w-screen h-screen bg-gray-900">
             <Terminal />
-        </>
+        </div>
     );
 };
 
-const root = createRoot(document.getElementById("root") ?? document.body);
+const root = createRoot(document.body);
 root.render(<App />);

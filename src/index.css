@@ -43,14 +43,16 @@
 
 /* Glow */
 @keyframes rgb-glow {
-    0% { border-color: rgb(255, 0, 0); box-shadow: 0 0 10px rgba(255, 0, 0, 0.8); }
-    25% { border-color: rgb(0, 255, 0); box-shadow: 0 0 10px rgba(0, 255, 0, 0.8); }
-    50% { border-color: rgb(0, 0, 255); box-shadow: 0 0 10px rgba(0, 0, 255, 0.8); }
-    75% { border-color: rgb(255, 0, 255); box-shadow: 0 0 10px rgba(255, 0, 255, 0.8); }
-    100% { border-color: rgb(255, 0, 0); box-shadow: 0 0 10px rgba(255, 0, 0, 0.8); }
+    0% { border-color: rgb(255, 0, 0); box-shadow: 0 0 var(--border-glow-size) rgba(255, 0, 0, 0.8); }
+    25% { border-color: rgb(0, 255, 0); box-shadow: 0 0 var(--border-glow-size) rgba(0, 255, 0, 0.8); }
+    50% { border-color: rgb(0, 0, 255); box-shadow: 0 0 var(--border-glow-size) rgba(0, 0, 255, 0.8); }
+    75% { border-color: rgb(255, 0, 255); box-shadow: 0 0 var(--border-glow-size) rgba(255, 0, 255, 0.8); }
+    100% { border-color: rgb(255, 0, 0); box-shadow: 0 0 var(--border-glow-size) rgba(255, 0, 0, 0.8); }
 }
 
 .terminal {
+    --border-glow-size: 25px;
+
     position: relative;
     animation: rgb-glow 5s infinite linear;
     border-radius: 10px;
