@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "@xterm/xterm": "^5.5.0",
+    "gsap": "^3.12.7",
     "nebula-sh": "file:../nebula-sh",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

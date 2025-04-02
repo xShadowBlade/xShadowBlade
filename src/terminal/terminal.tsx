@@ -6,6 +6,7 @@ import type { UseXTermProps } from "react-xtermjs";
 import { useXTerm, XTerm } from "react-xtermjs";
 
 import { NebulaShAddon } from "nebula-sh";
+import { SmoothTypingAddon } from "./smoothTypingAddon";
 
 /**
  * @returns The xterm component.
@@ -16,6 +17,7 @@ export const Terminal: React.FC = () => {
             options={{
                 // Font and letter
                 fontFamily: "JetBrains Mono, monospace",
+                // fontFamily: "Space Mono, monospace",
                 fontSize: 14,
                 letterSpacing: 1,
                 lineHeight: 1.4,
